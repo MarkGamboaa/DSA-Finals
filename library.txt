@@ -1,0 +1,59 @@
+1
+Super Book
+Jesus
+Historical
+10
+
+2
+The Grass is Always Greener
+Jeffrey Archer
+Adventure
+10
+
+3
+Murder!
+Arnoled Bennett
+Crime
+10
+
+4
+A Boy at Seven
+John Bidwell
+Classic
+10
+
+5
+The Higgler
+A. E. Coppard 
+Romance
+10
+
+6
+The Open Boat
+Stephen Crane
+Classic
+10
+
+7
+The Great Switcheroo
+Ronald Duck
+Suspense
+10
+
+8
+The Diamond as Big as the Ritz
+Scott Fitzgerald
+Science Fiction
+10
+
+9
+From a View to a Kill
+Ian Fleming
+Adventure
+10
+
+10
+A Mere Interlude
+Thomas Hardy
+Comedy
+10
